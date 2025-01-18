@@ -1,0 +1,16 @@
+name: .github
+id: ari:cloud:compass:b05bd447-01d9-48bb-8a0e-544f753425d1:component/bfc60ef0-e6fa-4ca2-96b4-363306fd4428/1d588e43-b91a-4941-a6f0-4b5525b2799c
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/https-github-com-okeamah/.github
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
